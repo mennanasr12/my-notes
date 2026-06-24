@@ -8,3 +8,7 @@
 
 ## Day 2
 - hoisting and TDZ
+
+## Day 3
+- scoping in practice
+- hiosting and TDZ in practice 
