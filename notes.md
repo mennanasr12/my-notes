@@ -12,3 +12,8 @@
 ## Day 3
 - scoping in practice
 - hiosting and TDZ in practice 
+
+## Day 4
+- the this keyword
+- memory management : primitives vs objects 
+- memory management : garbage collection 
