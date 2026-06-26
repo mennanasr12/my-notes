@@ -17,3 +17,8 @@
 - the this keyword
 - memory management : primitives vs objects 
 - memory management : garbage collection 
+
+
+## Day 5
+- the this keyword in practice 
+- regular function vs.arrow function 
