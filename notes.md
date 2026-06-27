@@ -5,7 +5,6 @@
 - lexical scoping vs lexical environment 
 - scope of variable
 
-
 ## Day 2
 - hoisting and TDZ
 
@@ -18,7 +17,9 @@
 - memory management : primitives vs objects 
 - memory management : garbage collection 
 
-
 ## Day 5
 - the this keyword in practice 
 - regular function vs.arrow function 
+
+# Day 6 
+- object refrences in practice 
