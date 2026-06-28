@@ -21,5 +21,8 @@
 - the this keyword in practice 
 - regular function vs.arrow function 
 
-# Day 6 
+## Day 6 
 - object refrences in practice 
+
+## Day 7
+- destructring arrays 
