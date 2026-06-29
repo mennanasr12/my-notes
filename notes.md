@@ -26,3 +26,6 @@
 
 ## Day 7
 - destructring arrays 
+
+## Day 8
+- destructuring objects 
