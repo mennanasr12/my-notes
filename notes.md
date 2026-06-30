@@ -29,3 +29,8 @@
 
 ## Day 8
 - destructuring objects 
+
+## Day 9
+- No study today.
+- Reason: Long work day and needed rest 🥹s
+
