@@ -32,5 +32,11 @@
 
 ## Day 9
 - No study today.
-- Reason: Long work day and needed rest 🥹s
+- Reason: Long work day and needed rest 🥹
+
+## Day 10 
+- No study today....
+
+## Day 11
+- No study today....
 
