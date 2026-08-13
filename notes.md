@@ -40,3 +40,8 @@
 ## Day 11
 - No study today....
 
+## Day 11+ 1
+- recap for refresh
+- spread operator
+
+
