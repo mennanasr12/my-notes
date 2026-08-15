@@ -63,3 +63,9 @@
 - spread VS rest parameter with functions
 - short circuting &&
 - short circuting ||
+
+## Day 11+3
+
+- nullish coalescing operator
+- logical assignment operators
+- challenge #1 in 9th section
