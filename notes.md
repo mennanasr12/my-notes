@@ -69,3 +69,8 @@
 - nullish coalescing operator
 - logical assignment operators
 - challenge #1 in 9th section
+
+## Day 11+4
+
+- FOR LOOP
+- optional chaining
