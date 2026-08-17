@@ -74,3 +74,7 @@
 
 - FOR LOOP
 - optional chaining
+
+## Day 11+5
+
+- Enhanced object literals
