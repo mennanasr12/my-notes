@@ -78,3 +78,7 @@
 ## Day 11+5
 
 - Enhanced object literals
+
+## Day 11+6
+
+- Looping objects
