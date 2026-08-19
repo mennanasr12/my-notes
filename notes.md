@@ -82,3 +82,7 @@
 ## Day 11+6
 
 - Looping objects
+
+## Day 11+7
+
+- challenge #2 in 9th section
