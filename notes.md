@@ -85,4 +85,8 @@
 
 ## Day 11+7
 
-- challenge #2 in 9th section
+- challenge #2 in 9th
+
+## Day 11+8
+
+- sets
