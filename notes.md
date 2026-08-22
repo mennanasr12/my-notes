@@ -90,3 +90,7 @@
 ## Day 11+8
 
 - sets
+
+## Day 11+9
+
+- operations on sets
