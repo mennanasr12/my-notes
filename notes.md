@@ -94,3 +94,7 @@
 ## Day 11+9
 
 - operations on sets
+
+## Day 11+10
+
+-maps
