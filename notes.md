@@ -97,4 +97,8 @@
 
 ## Day 11+10
 
--maps
+- maps
+
+## Day 11+11
+
+- map iteration
