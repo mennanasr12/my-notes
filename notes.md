@@ -102,3 +102,7 @@
 ## Day 11+11
 
 - map iteration
+
+## Day 11+12
+
+- summary and wrap up
