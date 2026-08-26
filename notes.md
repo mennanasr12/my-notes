@@ -106,3 +106,7 @@
 ## Day 11+12
 
 - summary and wrap up
+
+## Day 11+13
+
+- Challenge 3 in 9th section
