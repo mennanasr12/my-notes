@@ -110,3 +110,7 @@
 ## Day 11+13
 
 - Challenge 3 in 9th section
+
+## Day 11+14
+
+- working with strings
