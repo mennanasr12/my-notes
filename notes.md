@@ -118,3 +118,7 @@
 ## Day 11+15
 
 - working with strings part 2
+
+## Day 11+16
+
+- working with strings part 3
