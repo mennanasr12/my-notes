@@ -126,3 +126,7 @@
 ## Day 11+17
 
 - Challenge 4 in 9th section
+
+## Day 11+18
+
+- String methods practice
