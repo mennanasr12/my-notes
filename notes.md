@@ -130,3 +130,7 @@
 ## Day 11+18
 
 - String methods practice
+
+## Day 11+19
+
+- more practice and wrap up
