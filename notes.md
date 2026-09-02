@@ -134,3 +134,8 @@
 ## Day 11+19
 
 - more practice and wrap up
+
+## Day 11+20
+
+- Finished studying the remaining section
+- Created a summary/review of data structures
