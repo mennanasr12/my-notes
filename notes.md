@@ -139,3 +139,7 @@
 
 - Finished studying the remaining section
 - Created a summary/review of data structures
+
+## Day 11+21
+
+- practiceeeeeeee
