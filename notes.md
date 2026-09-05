@@ -143,3 +143,7 @@
 ## Day 11+21
 
 - practiceeeeeeee
+
+## Day 11+22
+
+- Default parameters in functions
