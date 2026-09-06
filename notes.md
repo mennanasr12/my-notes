@@ -147,3 +147,7 @@
 ## Day 11+22
 
 - Default parameters in functions
+
+## Day 11+23
+
+- how parsing arguments works
