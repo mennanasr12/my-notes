@@ -151,3 +151,7 @@
 ## Day 11+23
 
 - how parsing arguments works
+
+## Day 11+24
+
+- first calss and higher order functions
