@@ -155,3 +155,7 @@
 ## Day 11+24
 
 - first calss and higher order functions
+
+## Day 11+25
+
+- functions accepting call back functions
