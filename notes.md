@@ -159,3 +159,7 @@
 ## Day 11+25
 
 - functions accepting call back functions
+
+## Day 11+26
+
+- functions returning function
