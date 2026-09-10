@@ -163,3 +163,7 @@
 ## Day 11+26
 
 - functions returning function
+
+## Day 11+27
+
+- practice last parts of the course
