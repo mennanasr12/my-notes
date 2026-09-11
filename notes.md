@@ -167,3 +167,7 @@
 ## Day 11+27
 
 - practice last parts of the course
+
+## Day 11+28
+
+- the call and apply methods
