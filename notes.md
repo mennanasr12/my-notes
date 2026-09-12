@@ -171,3 +171,9 @@
 ## Day 11+28
 
 - the call and apply methods
+
+## Day 11+29
+
+- the bind method
+- challenge 1 in section 10
+- IIFE
