@@ -177,3 +177,8 @@
 - the bind method
 - challenge 1 in section 10
 - IIFE
+
+## Day 11+30
+
+- what's closure
+- pratice closures with examples
