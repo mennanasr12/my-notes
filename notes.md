@@ -182,3 +182,7 @@
 
 - what's closure
 - pratice closures with examples
+
+## Day 42
+
+- challenge 2 in section 10
