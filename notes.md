@@ -194,3 +194,9 @@
 ## Day 44
 
 - the new at method
+
+## Day 45
+
+- FOR EACH method
+- forEach with maps and sets
+- the bankist app
