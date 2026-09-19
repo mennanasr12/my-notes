@@ -200,3 +200,7 @@
 - FOR EACH method
 - forEach with maps and sets
 - the bankist app
+
+## Day 46
+
+- creating DOM elements
