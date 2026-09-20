@@ -204,3 +204,7 @@
 ## Day 46
 
 - creating DOM elements
+
+## Day 47
+
+- practice DOM
