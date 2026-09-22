@@ -208,3 +208,11 @@
 ## Day 47
 
 - practice DOM
+
+## Day 47
+
+- practice DOM
+
+## Day 48
+
+- challenge 1 in section 11
