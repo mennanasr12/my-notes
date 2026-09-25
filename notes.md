@@ -209,14 +209,19 @@
 
 - practice DOM
 
-## Day 47
+## Day 48
 
 - practice DOM
 
-## Day 48
+## Day 49
 
 - challenge 1 in section 11
 
 ## Day 50
 
 - Data transformations
+
+## Day 51
+
+- the map method
+- computing usernames
