@@ -225,3 +225,8 @@
 
 - the map method
 - computing usernames
+
+## Day 52
+
+- the filter method
+- the reduce method
