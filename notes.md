@@ -235,3 +235,8 @@
 
 - the magic of chaining methods
 - the find method
+
+## Day 54
+
+- implementing login
+- implementing transfers
