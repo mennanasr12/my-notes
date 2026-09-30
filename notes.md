@@ -230,3 +230,8 @@
 
 - the filter method
 - the reduce method
+
+## Day 53
+
+- the magic of chaining methods
+- the find method
