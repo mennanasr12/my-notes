@@ -240,3 +240,7 @@
 
 - implementing login
 - implementing transfers
+
+## Day 55
+
+- the findIndex method
