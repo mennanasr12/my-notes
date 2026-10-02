@@ -244,3 +244,9 @@
 ## Day 55
 
 - the findIndex method
+
+## Day 55
+
+- some and every method
+- implementing loan
+- flat and flatmap methods
