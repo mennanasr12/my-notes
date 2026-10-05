@@ -245,8 +245,12 @@
 
 - the findIndex method
 
-## Day 55
+## Day 56
 
 - some and every method
 - implementing loan
 - flat and flatmap methods
+
+## Day 57
+
+- sorting arrays
