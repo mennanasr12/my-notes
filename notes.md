@@ -261,4 +261,4 @@
 
 ## Day 59
 
--
+- more ways for creating and filling arrays
