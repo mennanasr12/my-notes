@@ -267,3 +267,9 @@
 
 - non destructive alternatives
 - summary and which array method to use
+
+## Day 61
+
+- array methods practice
+- challenge 2
+- challenge 3
